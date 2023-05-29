@@ -1,0 +1,49 @@
+body {
+  color: #020312;
+}
+.col-3 {
+  border-radius: 15px;
+}
+#price {
+  font-size: 125px;
+  color: #1d0e2c;
+}
+
+small {
+  font-size: 40px;
+  color: #020312;
+}
+#context {
+  font-size: 18px;
+  color: #020312;
+}
+.options {
+  font-size: 18px;
+}
+.active {
+  color: #1d0e2c;
+  font-weight: bold;
+}
+.disabled {
+  color: black;
+}
+.btn {
+  border-color: #1d0e2c;
+  color: #1d0e2c;
+}
+.btn:hover {
+  border-color: #1d0e2c;
+  background-color: #1d0e2c;
+  color: white;
+}
+.box {
+  border-radius: 15px;
+  background-color: white;
+  font-size: 12px;
+}
+.box:hover {
+  background-color: #4e9eed;
+  color: black;
+  transform: translate(0px, -25px);
+  box-shadow: 0px 5px 10px black;
+}
